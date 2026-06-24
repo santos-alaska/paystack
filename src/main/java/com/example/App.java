@@ -781,7 +781,7 @@ public class App {
           <span></span>
           <span></span>
         </div>
-        paystack
+        chuks
       </a>
 
       <ul class="nav-links">
